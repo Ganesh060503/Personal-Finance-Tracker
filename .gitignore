@@ -7,9 +7,7 @@
 /server/node_modules
 
 #package Files
-/client/package.json
 /client/package-lock.json
-/server/package.json
 /server/package-lock.json
 
 #igonore files
